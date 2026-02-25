@@ -12,10 +12,13 @@ App Cleaner & Uninstaller completely removes applications, manages extensions an
   **One-Click Updates** — Track and install updates for all your apps in one place. No need to check each app manually.
 
   **Startup Optimization** — Control what launches at startup. Fewer background processes = faster Mac.
+  
+  **Privacy Audit** — See which apps have access to your camera, microphone, files, and other sensitive resources. Stay in control of your privacy.
+  
+  **App Safety Check** — Check Apple notarization status and identify uncertified apps before they become a problem.
 
-  **Security Insights** — View app permissions, check Apple notarization status, and identify uncertified apps.
+  **AI App Summaries** — Forgot what that app does? AI-powered summaries help you understand every app on your Mac — especially the ones you installed long ago. Easily decide what to keep and what to remove.
 
-  **AI App Summaries** — Understand what each app on your Mac really does, powered by Apple Intelligence.
 
 ## Screenshots
 <img width="2320" height="1536" alt="uninstall-apps-completely" src="https://github.com/user-attachments/assets/8d4353d9-0cd3-4507-b79f-66c671cdb7fa" />
