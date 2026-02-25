@@ -7,20 +7,18 @@ App Cleaner & Uninstaller completely removes applications, manages extensions an
 
  ## Key Features
 
-  **Complete Uninstall** — Remove apps with all their residual files: caches, logs,
-  preferences, and hidden folders. Nothing left behind.
+  **Complete Uninstall** — Remove apps with all their residual files: caches, logs, preferences, and hidden folders. Nothing left behind.
 
-  **One-Click Updates** — Track and install updates for all your apps in one place.
-  No need to check each app manually.
+  **One-Click Updates** — Track and install updates for all your apps in one place. No need to check each app manually.
 
-  **Startup Optimization** — Control what launches at startup. Fewer background
-  processes = faster Mac.
+  **Startup Optimization** — Control what launches at startup. Fewer background processes = faster Mac.
 
-  **Security Insights** — View app permissions, check Apple notarization status, and
-  identify uncertified apps.
+  **Security Insights** — View app permissions, check Apple notarization status, and identify uncertified apps.
 
-  **AI App Summaries** — Understand what each app on your Mac really does, powered by
-   Apple Intelligence.
+  **AI App Summaries** — Understand what each app on your Mac really does, powered by Apple Intelligence.
+
+## Screenshots
+<img width="2320" height="1536" alt="uninstall-apps-completely" src="https://github.com/user-attachments/assets/8d4353d9-0cd3-4507-b79f-66c671cdb7fa" />
 
 
   ## System Requirements
