@@ -33,8 +33,7 @@ App Cleaner & Uninstaller completely removes applications, manages extensions an
 
 ## Why GitHub?
 
-  App Cleaner & Uninstaller is not open source, but we believe in transparency and
-  open communication with our users.
+  App Cleaner & Uninstaller is not open source, but we believe in transparency and open communication with our users.
 
   We use this repository to:
 
@@ -42,15 +41,14 @@ App Cleaner & Uninstaller completely removes applications, manages extensions an
   - **Publish documentation** — guides, FAQs, and technical details
   - **Provide a direct communication channel** — beyond traditional support
 
-  We're a small team at Nektony, and we want to be closer to our users. GitHub is where many of you already are.
+  We're a focused team at Nektony, and we want to be closer to our users. GitHub is where many of you already are.
 
   ## Changelog
 
   ### Version 9.1 — February 2026
 
   **Added**
-  - Security Insights: view app permissions for system settings and folders, check
-  Apple notarization status
+  - Security Insights: view app permissions for system settings and folders, check Apple notarization status
   - AI App Summary to help understand what each app on your Mac is for
   - Detection of available updates for iOS apps installed on Mac
 
