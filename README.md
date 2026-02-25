@@ -1,6 +1,6 @@
  # App Cleaner & Uninstaller                                                        
                                                                                     
-> All-in-one app manager for macOS: uninstall, update, and optimize.
+App Cleaner & Uninstaller completely removes applications, manages extensions and startup items, tracks updates for all your apps, and provides security insights — all in one place.
 > 
 > [![macOS](https://img.shields.io/badge/macOS-11.0%2B-blue)](#system-requirements)
  
@@ -8,7 +8,7 @@
 
 > [![Trustpilot](https://img.shields.io/badge/Trustpilot-4.8%2F5-brightgreen)](#)
 
-App Cleaner & Uninstaller completely removes applications, manages extensions and startup items, tracks updates for all your apps, and provides security insights — all in one place.
+
 
  ## Key Features
 
