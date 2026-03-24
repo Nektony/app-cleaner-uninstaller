@@ -26,13 +26,13 @@ App Cleaner & Uninstaller completely removes applications, manages extensions an
 
   ## System Requirements
 
-  **OS** -  macOS 11.0 (Big Sur) or later 
-  **Size** - 38.7 MB 
-  **Architecture** - Intel & Apple Silicon 
+  - **OS** -  macOS 11.0 (Big Sur) or later 
+  - **Size** - 38.7 MB 
+  - **Architecture** - Intel & Apple Silicon 
 
   ## Download
 
-**[Download from Website](https://download.nektony.com/download/app-cleaner-uninstaller/app-cleaner-uninstaller.dmg)** — Free 2-day trial, no credit card required
+**[Download from Website](https://nektony.com/mac-app-cleaner/download)** — Free 2-day trial, no credit card required
 
 ## Why GitHub?
 
