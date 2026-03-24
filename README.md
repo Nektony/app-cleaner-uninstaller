@@ -48,17 +48,16 @@ App Cleaner & Uninstaller completely removes applications, manages extensions an
 
   ## Changelog
 
-  ### Version 9.1 — February 2026
+  ## [9.1.1] - March 2026
+                                                                                                                             
+  ### Improved
+  - Hint texts for better clarity                                                                                            
+  - App update mechanism                                                                                                     
+   
+  ### Fixed                                                                                                                  
+  - Minor bug fixes and stability improvements
 
-  **Added**
-  - Security Insights: view app permissions for system settings and folders, check Apple notarization status
-  - AI App Summary to help understand what each app on your Mac is for
-  - Detection of available updates for iOS apps installed on Mac
-
-  **Improved**
-  - Updates tab with expanded database of supported apps
-  - Memory usage and overall performance
-
+    
  ## Support
 
   - [Help Center](https://nektony.com/help/app-cleaner)
