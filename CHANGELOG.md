@@ -1,6 +1,16 @@
 # Changelog     
 
   All notable changes to App Cleaner & Uninstaller will be documented in this file.
+  
+## [9.1.1] - March 2026
+                                                                                                                             
+  ### Improved
+  - Hint texts for better clarity                                                                                            
+  - App update mechanism                                                                                                     
+   
+  ### Fixed                                                                                                                  
+  - Minor bug fixes and stability improvements
+    
 
   ## [9.1] - February 2026
 
