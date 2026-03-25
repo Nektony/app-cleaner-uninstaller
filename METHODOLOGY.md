@@ -1112,7 +1112,11 @@ codesign -dv --verbose=2 /path/to/app.app
 spctl --assess --verbose /path/to/app.app
 ```
 Signed? Yes / No. Notarized? Yes / No
+
+
 An uninstaller gets Full Disk Access and root privileges. An unsigned tool with that level of access is an increased risk. If unsigned, note it in the report.
+
+
 3. Install the uninstaller. During installation: does it install third-party software or show ads?
 4. Grant Full Disk Access.
 5. Launch it, go through the onboarding.
