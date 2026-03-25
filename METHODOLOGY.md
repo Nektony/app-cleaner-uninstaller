@@ -2,9 +2,8 @@
 
 *48 criteria. Weighted scoring. Reproducible testing protocol.*
 
-**Version:** 1.1 (March 2026)
-**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
-**Interactive calculator:** [nektony.com/resources/uninstaller-calculator](https://nektony.com/resources/uninstaller-calculator)
+- **Version:** 1.1 (March 2026)
+- **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 ---
 
@@ -1482,10 +1481,10 @@ Free to copy, redistribute, adapt, create derivative works, use commercially. At
 
 Found a mistake? Want to suggest an improvement? Have questions about testing?
 
-- [Open an issue](../../issues) on this repository
+
 - Contact: support@nektony.com
 
 ---
 
 *Methodology version: 1.1 | Last updated: March 2026*
-*Interactive calculator: [nektony.com/resources/uninstaller-calculator](https://nektony.com/resources/uninstaller-calculator)*
+
