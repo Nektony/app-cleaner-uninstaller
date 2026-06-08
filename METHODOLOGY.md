@@ -2,8 +2,9 @@
 
 *48 criteria. Weighted scoring. Reproducible testing protocol.*
 
-- **Version:** 1.1 (March 2026)
-- **License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+**Version:** 1.0.6 (April 2026)
+**License:** [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+**Interactive calculator:** [nektony.com/resources/uninstaller-calculator](https://nektony.com/resources/uninstaller-calculator)
 
 ---
 
@@ -1112,11 +1113,7 @@ codesign -dv --verbose=2 /path/to/app.app
 spctl --assess --verbose /path/to/app.app
 ```
 Signed? Yes / No. Notarized? Yes / No
-
-
 An uninstaller gets Full Disk Access and root privileges. An unsigned tool with that level of access is an increased risk. If unsigned, note it in the report.
-
-
 3. Install the uninstaller. During installation: does it install third-party software or show ads?
 4. Grant Full Disk Access.
 5. Launch it, go through the onboarding.
@@ -1287,9 +1284,19 @@ Test each L3 criterion as described in [Level 3 detailed descriptions](#l3-crite
 | 3.18 | Help on error | |
 | 3.19 | No telemetry without consent or third-party software | |
 
-### Minimum set for quick check
+### Alternative: QuickTest — quick first-pass check (~1 hour)
 
-If you are short on time for the full protocol, use a short set of 4 tests:
+If you are short on time for the full protocol, use QuickTest as a first-pass filter — a short set of 4 tests.
+
+**Runnable scripts:** the `quicktest/` folder in this repository contains ready-to-use scripts that build a synthetic test environment with known ground truth, then verify the result:
+
+- `quicktest/quicktest-setup-en.sh` — create synthetic apps, services, and traps
+- `quicktest/quicktest-verify-en.sh` — check what was deleted vs. kept, compute precision/recall
+- `quicktest/quicktest-teardown-en.sh` — remove all test artifacts
+
+Run them on a disposable test environment only, never on a machine with real data.
+
+Manual 4-test set:
 
 | # | What to test | Class | App example | What to check |
 |---|-------------|-------|-------------|---------------|
@@ -1435,7 +1442,7 @@ Yes, you have to do so for a full evaluation. But if you need a quick check, the
 That's acceptable for L2/L3, just mark the criterion as failed. But if the missing feature leads to dangerous behavior (e.g., suggesting removal of a shared folder without checking), that's an L1 failure.
 
 **How often is the methodology updated?**
-The test application set rotates every 6 months. We update the methodology when new macOS versions are released (new extension types, SIP/TCC changes) or when coverage gaps are discovered. Current version: 1.1.
+The test application set rotates every 6 months. We update the methodology when new macOS versions are released (new extension types, SIP/TCC changes) or when coverage gaps are discovered. Current version: 1.0.6.
 
 **Can the methodology be used for commercial reviews?**
 Yes, the CC BY 4.0 license allows commercial use with attribution.
@@ -1485,10 +1492,10 @@ Free to copy, redistribute, adapt, create derivative works, use commercially. At
 
 Found a mistake? Want to suggest an improvement? Have questions about testing?
 
-
+- [Open an issue](../../issues) on this repository
 - Contact: support@nektony.com
 
 ---
 
-*Methodology version: 1.1 | Last updated: March 2026*
-
+*Methodology version: 1.0.6 | Last updated: April 2026*
+*Interactive calculator: [nektony.com/resources/uninstaller-calculator](https://nektony.com/resources/uninstaller-calculator)*
