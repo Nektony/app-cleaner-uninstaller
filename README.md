@@ -1,6 +1,6 @@
  # App Cleaner & Uninstaller                                                        
                                                                                      
-> [![macOS](https://img.shields.io/badge/macOS-11.0%2B-blue)](#system-requirements)    [![Version](https://img.shields.io/badge/version-9.1-green)](#changelog)       [![Trustpilot](https://img.shields.io/badge/Trustpilot-4.8%2F5-brightgreen)](#)
+> [![macOS](https://img.shields.io/badge/macOS-11.0%2B-blue)](#system-requirements)    [![Version](https://img.shields.io/badge/version-9.2.2-green)](#changelog)       [![Trustpilot](https://img.shields.io/badge/Trustpilot-4.8%2F5-brightgreen)](#)
 
 App Cleaner & Uninstaller completely removes applications, manages extensions and startup items, tracks updates for all your apps, and provides security insights — all in one place.
 
@@ -27,7 +27,7 @@ App Cleaner & Uninstaller completely removes applications, manages extensions an
   ## System Requirements
 
   - **OS** -  macOS 11.0 (Big Sur) or later 
-  - **Size** - 38.7 MB 
+  - **Size** - 38.5 MB 
   - **Architecture** - Intel & Apple Silicon 
 
   ## Download
@@ -48,17 +48,22 @@ App Cleaner & Uninstaller completely removes applications, manages extensions an
 
   ## Changelog
 
-  ## [9.1.1] - March 2026
-                                                                                                                             
-  ### Improved
-  - Hint texts for better clarity                                                                                            
-  - App update mechanism                                                                                                     
-   
-  ### Fixed                                                                                                                  
-  - Minor bug fixes and stability improvements
+ ### Version 9.2 — April 2026
 
+**Added**
+- Manage app permissions for system access and folders — review and revoke them directly in the app
+- A dedicated Updates section in the Skip List to ignore specific app versions you don't want to update
+
+**Improved**
+- AI App Summary and app permissions now available in Expert Mode
+- Expanded list of supported apps in the Updates tab
+
+---
+
+*For full version history, see [CHANGELOG.md](CHANGELOG.md)*
     
  ## Support
 
   - [Help Center](https://nektony.com/help/app-cleaner)
   - [Email](mailto:support@nektony.com)
+  - [Website](https://nektony.com/mac-app-cleaner)
