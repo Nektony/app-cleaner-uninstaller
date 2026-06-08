@@ -1,22 +1,38 @@
 # Changelog     
 
   All notable changes to App Cleaner & Uninstaller will be documented in this file.
+
+## [9.2.1] - May 2026
+
+### Improved
+- Scanning speed when the app is in the background
+- Scanning and app updates — now faster and more reliable
+
+### Fixed
+- A display issue with apps after an update
+
+## [9.2] - April 2026
+
+### Added
+- Manage app permissions for system access and folders — review and revoke them directly from App Cleaner & Uninstaller
+- A dedicated Updates section in the Skip List, making it easier to ignore specific app versions you don't want to update
+
+### Improved
+- AI App Summary and app permissions are now available in Expert Mode; all app details are visible in both modes
+- Expanded the list of supported apps in the Updates tab
   
 ## [9.1.1] - March 2026
                                                                                                                              
-  ### Improved
-  - Hint texts for better clarity                                                                                            
-  - App update mechanism                                                                                                     
+ ### Improved
+- App update mechanism
+- Hint texts for better clarity
+- Minor internal improvements and refinements                                                                                                   
    
-  ### Fixed                                                                                                                  
-  - Minor bug fixes and stability improvements
-    
 
   ## [9.1] - February 2026
 
   ### Added
-  - Security Insights: view app permissions for system settings and folders, check
-  Apple notarization status
+  - Security Insights: view app permissions for system settings and folders, check Apple notarization status
   - AI App Summary to help you understand what each app on your Mac is for
   - Detection of available updates for iOS apps installed on Mac
 
