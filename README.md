@@ -1,6 +1,8 @@
  # App Cleaner & Uninstaller                                                        
                                                                                      
-> [![macOS](https://img.shields.io/badge/macOS-11.0%2B-blue)](#system-requirements)    [![Version](https://img.shields.io/badge/version-9.2.2-green)](#changelog)       [![Trustpilot](https://img.shields.io/badge/Trustpilot-4.8%2F5-brightgreen)](#)
+[![macOS](https://img.shields.io/badge/macOS-11.0%2B-blue)](#system-requirements)
+[![Version](https://img.shields.io/badge/version-9.2.2-green)](#changelog)
+[![Trustpilot](https://img.shields.io/badge/Trustpilot-4.8%2F5-brightgreen)](#)
 
 App Cleaner & Uninstaller completely removes applications, manages extensions and startup items, tracks updates for all your apps, and provides security insights — all in one place.
 
