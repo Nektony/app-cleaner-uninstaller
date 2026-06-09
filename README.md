@@ -1,4 +1,4 @@
- # App Cleaner & Uninstaller                                                        
+# App Cleaner & Uninstaller                                                        
                                                                                      
 [![macOS](https://img.shields.io/badge/macOS-11.0%2B-blue)](#system-requirements)
 [![Version](https://img.shields.io/badge/version-9.2.2-green)](#changelog)
@@ -7,7 +7,7 @@
 App Cleaner & Uninstaller completely removes applications, manages extensions and startup items, tracks updates for all your apps, and provides security insights — all in one place.
 
 
- ## Key Features
+## Key Features
 
   **Complete Uninstall** — Remove apps with all their residual files: caches, logs, preferences, and hidden folders. Nothing left behind.
 
